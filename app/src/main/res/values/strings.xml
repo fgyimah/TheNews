@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TheNews</string>
+    <string name="the_news_logo">The News Logo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="trending">Trending</string>
+    <string name="sources">Sources</string>
+    <string name="other">Other</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+
+    <string name="apiKey">52f18896fc784c1a897a483794d5d1be</string>
+    <string name="read_more">Read More from official website</string>
+    <string name="share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_the_news">TheNewsApp, free open source news application, real time news app from over twenty(20) different sources.</string>
+
+
+</resources>
